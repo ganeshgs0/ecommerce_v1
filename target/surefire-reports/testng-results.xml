@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[test is started CustomerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[test is passed CustomerRegistration]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-12T15:30:01 IST" name="listener suite" finished-at="2022-10-12T15:31:44 IST" duration-ms="102723">
+    <groups>
+    </groups>
+    <test started-at="2022-10-12T15:30:01 IST" name="listener test" finished-at="2022-10-12T15:31:44 IST" duration-ms="102723">
+      <class name="com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@30f842ca]" started-at="2022-10-12T15:30:01 IST" name="beforeTest" finished-at="2022-10-12T15:30:42 IST" duration-ms="41339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@30f842ca]" started-at="2022-10-12T15:30:42 IST" name="startReport" finished-at="2022-10-12T15:30:43 IST" duration-ms="82" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration.CustomerRegistration() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="CustomerRegistration()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@30f842ca]" started-at="2022-10-12T15:30:43 IST" name="CustomerRegistration" finished-at="2022-10-12T15:31:40 IST" duration-ms="57790" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test is started CustomerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[test is passed CustomerRegistration]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CustomerRegistration -->
+        <test-method is-config="true" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@30f842ca]" started-at="2022-10-12T15:31:41 IST" name="endReport" finished-at="2022-10-12T15:31:41 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CustomerRegistration status=SUCCESS method=TC001_CustomerRegistration.CustomerRegistration()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@30f842ca] output=test is started CustomerRegistration]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@30f842ca]" started-at="2022-10-12T15:31:41 IST" name="afterClass" finished-at="2022-10-12T15:31:44 IST" duration-ms="2793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration -->
+    </test> <!-- listener test -->
+  </suite> <!-- listener suite -->
+</testng-results>

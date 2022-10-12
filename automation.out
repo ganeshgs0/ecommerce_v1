@@ -1,0 +1,287 @@
+*****starting TC001_CustomerRegistration *******
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (4dc2442f27003a364dec6e08dce375da)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (4dc2442f27003a364dec6e08dce375da)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (4dc2442f27003a364dec6e08dce375da)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (4dc2442f27003a364dec6e08dce375da)] -> xpath: //h1[text()='Create an account']]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (1314a0f49d161843e0237498a62fb4ca)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (1314a0f49d161843e0237498a62fb4ca)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (1314a0f49d161843e0237498a62fb4ca)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (1314a0f49d161843e0237498a62fb4ca)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (1314a0f49d161843e0237498a62fb4ca)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (8262d0ff1e2d4c890e1f3157e015fa44)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (8262d0ff1e2d4c890e1f3157e015fa44)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (8262d0ff1e2d4c890e1f3157e015fa44)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (8262d0ff1e2d4c890e1f3157e015fa44)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (8262d0ff1e2d4c890e1f3157e015fa44)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (7bbc1543600257be81ee1696794a47f7)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (7bbc1543600257be81ee1696794a47f7)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (7bbc1543600257be81ee1696794a47f7)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (f9e04992bdcfb0b169f0a98827b5f135)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (f9e04992bdcfb0b169f0a98827b5f135)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (f9e04992bdcfb0b169f0a98827b5f135)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (f9e04992bdcfb0b169f0a98827b5f135)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (f9e04992bdcfb0b169f0a98827b5f135)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (4ed6a900fd01a0a3a964003f86aac6b9)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (4ed6a900fd01a0a3a964003f86aac6b9)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (4ed6a900fd01a0a3a964003f86aac6b9)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (87481e139b9970bae1ef1cf32a6e8996)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (87481e139b9970bae1ef1cf32a6e8996)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (87481e139b9970bae1ef1cf32a6e8996)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (87481e139b9970bae1ef1cf32a6e8996)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (87481e139b9970bae1ef1cf32a6e8996)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (9683db6324a2efc08ac1595d6f1ffec5)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (9683db6324a2efc08ac1595d6f1ffec5)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (9683db6324a2efc08ac1595d6f1ffec5)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (e32ad2b52dc52a29bc0c1e67371388f5)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (e32ad2b52dc52a29bc0c1e67371388f5)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (e32ad2b52dc52a29bc0c1e67371388f5)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (e32ad2b52dc52a29bc0c1e67371388f5)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (e32ad2b52dc52a29bc0c1e67371388f5)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (b268934bc0e40dd1f3b0f4e782fad746)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (b268934bc0e40dd1f3b0f4e782fad746)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (b268934bc0e40dd1f3b0f4e782fad746)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (b268934bc0e40dd1f3b0f4e782fad746)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (b268934bc0e40dd1f3b0f4e782fad746)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (2eff8982c2e59bf07a6e2713e6112bff)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (2eff8982c2e59bf07a6e2713e6112bff)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (2eff8982c2e59bf07a6e2713e6112bff)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (2eff8982c2e59bf07a6e2713e6112bff)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (2eff8982c2e59bf07a6e2713e6112bff)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (0b9372d0ad683b195bcd00fdd5fbbe1c)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (0b9372d0ad683b195bcd00fdd5fbbe1c)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (0b9372d0ad683b195bcd00fdd5fbbe1c)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (7b36589dc4bcc6e419402c311c3078d0)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (7b36589dc4bcc6e419402c311c3078d0)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (7b36589dc4bcc6e419402c311c3078d0)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (7b36589dc4bcc6e419402c311c3078d0)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (7b36589dc4bcc6e419402c311c3078d0)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (7f8085b335dbf2a634f8c7d295ff1b51)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (7f8085b335dbf2a634f8c7d295ff1b51)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (7f8085b335dbf2a634f8c7d295ff1b51)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (7f8085b335dbf2a634f8c7d295ff1b51)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (7f8085b335dbf2a634f8c7d295ff1b51)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (1e8775a8f23d99aead4fa1c574ae29fe)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (1e8775a8f23d99aead4fa1c574ae29fe)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (1e8775a8f23d99aead4fa1c574ae29fe)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (1e8775a8f23d99aead4fa1c574ae29fe)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (1e8775a8f23d99aead4fa1c574ae29fe)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (14663f4648e9caa91720fd5e7f3496ce)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (14663f4648e9caa91720fd5e7f3496ce)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (14663f4648e9caa91720fd5e7f3496ce)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (14663f4648e9caa91720fd5e7f3496ce)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (14663f4648e9caa91720fd5e7f3496ce)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (77c0a26bf17e32418a4dec41b9bbd203)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (77c0a26bf17e32418a4dec41b9bbd203)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (77c0a26bf17e32418a4dec41b9bbd203)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (77c0a26bf17e32418a4dec41b9bbd203)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (77c0a26bf17e32418a4dec41b9bbd203)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (98648674fda7cc302c045076d057c317)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (98648674fda7cc302c045076d057c317)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (98648674fda7cc302c045076d057c317)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (98648674fda7cc302c045076d057c317)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (98648674fda7cc302c045076d057c317)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (9bfb29e06dd3b36a97df5de58064d880)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (9bfb29e06dd3b36a97df5de58064d880)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (9bfb29e06dd3b36a97df5de58064d880)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (9bfb29e06dd3b36a97df5de58064d880)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (9bfb29e06dd3b36a97df5de58064d880)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (aefa6a847be3035b17bec40e40aed645)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (aefa6a847be3035b17bec40e40aed645)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (aefa6a847be3035b17bec40e40aed645)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (5ddef17f9de85b304e3afefa08a9bda1)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (5ddef17f9de85b304e3afefa08a9bda1)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (5ddef17f9de85b304e3afefa08a9bda1)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (4e7a76a7fd5f724329ed136c7609fbc8)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (f6faf1332241dc752da56fb4bb5cd1c0)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (ae6fd23ec0fa1d4aa6dee4f2315c1dba)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (ae6fd23ec0fa1d4aa6dee4f2315c1dba)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (ae6fd23ec0fa1d4aa6dee4f2315c1dba)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (ae6fd23ec0fa1d4aa6dee4f2315c1dba)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (ae6fd23ec0fa1d4aa6dee4f2315c1dba)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (379b38d60c0cb208180946645bf33547)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in Proxy element for: DefaultElementLocator 'By.linkText: Sign in'
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (cc2f8bf6d8052d3f4f7c0cc32eda6f94)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (cc2f8bf6d8052d3f4f7c0cc32eda6f94)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (cc2f8bf6d8052d3f4f7c0cc32eda6f94)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (cc2f8bf6d8052d3f4f7c0cc32eda6f94)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (cc2f8bf6d8052d3f4f7c0cc32eda6f94)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (0d88f750d10b176e5060722939b6078d)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (0d88f750d10b176e5060722939b6078d)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (0d88f750d10b176e5060722939b6078d)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (0d88f750d10b176e5060722939b6078d)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (0d88f750d10b176e5060722939b6078d)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (0d88f750d10b176e5060722939b6078d)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (0d88f750d10b176e5060722939b6078d)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (0d88f750d10b176e5060722939b6078d)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (3c53bfd49193e54e4d3ffef5304cce24)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (3c53bfd49193e54e4d3ffef5304cce24)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (3c53bfd49193e54e4d3ffef5304cce24)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (3c53bfd49193e54e4d3ffef5304cce24)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (3c53bfd49193e54e4d3ffef5304cce24)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (6870ab3786cd5ce34e3e40593084e32e)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (6870ab3786cd5ce34e3e40593084e32e)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (6870ab3786cd5ce34e3e40593084e32e)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (6870ab3786cd5ce34e3e40593084e32e)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (6870ab3786cd5ce34e3e40593084e32e)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (1d0f2f2bc545b560ae9e9759c15a706b)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (1d0f2f2bc545b560ae9e9759c15a706b)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (1d0f2f2bc545b560ae9e9759c15a706b)] -> id: SubmitCreate]
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (1d0f2f2bc545b560ae9e9759c15a706b)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (1d0f2f2bc545b560ae9e9759c15a706b)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (1d0f2f2bc545b560ae9e9759c15a706b)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (1d0f2f2bc545b560ae9e9759c15a706b)] -> xpath: //h1[text()='Create an account']]
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (d3ee1c0d51c1e4fc9de933df272b0dd1)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (d3ee1c0d51c1e4fc9de933df272b0dd1)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (d3ee1c0d51c1e4fc9de933df272b0dd1)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (d3ee1c0d51c1e4fc9de933df272b0dd1)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (d3ee1c0d51c1e4fc9de933df272b0dd1)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (ae01e9e5ce84ad1d059fdc4582012de8)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (ae01e9e5ce84ad1d059fdc4582012de8)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (ae01e9e5ce84ad1d059fdc4582012de8)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (ae01e9e5ce84ad1d059fdc4582012de8)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (ae01e9e5ce84ad1d059fdc4582012de8)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (4117ddf183a4250e3067f8301c044229)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (4117ddf183a4250e3067f8301c044229)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (4117ddf183a4250e3067f8301c044229)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (4117ddf183a4250e3067f8301c044229)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (4117ddf183a4250e3067f8301c044229)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (3628c7cfdad61f8edb3b17619f8d2ffe)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (3628c7cfdad61f8edb3b17619f8d2ffe)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (3628c7cfdad61f8edb3b17619f8d2ffe)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (3628c7cfdad61f8edb3b17619f8d2ffe)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (3628c7cfdad61f8edb3b17619f8d2ffe)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (70876ad4589a32fe5528152d3e23926d)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (70876ad4589a32fe5528152d3e23926d)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (70876ad4589a32fe5528152d3e23926d)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (70876ad4589a32fe5528152d3e23926d)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (70876ad4589a32fe5528152d3e23926d)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
+*****starting TC001_CustomerRegistration *******
+clicing on sign in [[ChromeDriver: chrome on WINDOWS (7780b11b99bf5592fa12bb152c55f83c)] -> link text: Sign in]
+enetering email by using object [[ChromeDriver: chrome on WINDOWS (7780b11b99bf5592fa12bb152c55f83c)] -> id: email_create]
+clicking on create account by using object [[ChromeDriver: chrome on WINDOWS (7780b11b99bf5592fa12bb152c55f83c)] -> id: SubmitCreate]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (7780b11b99bf5592fa12bb152c55f83c)] -> xpath: //h1[text()='Create an account']]
+verifying the text nullby using object[[ChromeDriver: chrome on WINDOWS (7780b11b99bf5592fa12bb152c55f83c)] -> xpath: //h1[contains(text(),'My account')]]
+**********ending TC001_CustomerRegistration ********
